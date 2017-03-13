@@ -1,0 +1,14 @@
+{
+  "name": "ng2-cordova",
+  "version": "1.0.0",
+  "description": "PoC for angular2 + cordova ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ng2-cordova"
+  ],
+  "author": "JohnMagtoto <john@enceladus.co.jp>",
+  "license": "ISC"
+}

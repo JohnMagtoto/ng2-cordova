@@ -1,0 +1,19 @@
+*.js
+*.map
+/lib
+!/*.js
+!/*.map
+/node_modules
+settings.json
+/dist
+/webap2war-temp
+/typings
+npm-debug.log
+/css
+!rsFlu.css
+/warout
+**/DS_Store
+
+# cordova
+/platforms
+/plugins
