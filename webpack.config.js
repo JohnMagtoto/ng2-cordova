@@ -9,7 +9,7 @@ module.exports = {
   },
 
   output: {  // 出力先
-    path: "./dist",
+    path: "./www/js",
     filename: '[name].js',
     chunkFilename: '[id].chunk.js'
   },
