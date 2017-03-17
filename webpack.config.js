@@ -45,9 +45,9 @@ module.exports = {
 
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
-   new HtmlWebpackPlugin({
-      template: 'src/index.html'  // 単体動作用
-    })
+  //  new HtmlWebpackPlugin({
+  //     template: 'src/index.html'  // 単体動作用
+  //   })
   ],
   devServer: {
 //    contentBase: "./public",
